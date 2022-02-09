@@ -2,7 +2,7 @@
 
 # Django
 Django==3.2.8
-django-appconf==1.0.4                   # Helper for handling app configs
+django-appconf==1.0.5                   # Helper for handling app configs
 django-better-admin-arrayfield==1.4.2   # Admin widget for ArrayField
 django-dynamic-preferences==1.10.1      # Settings management
 django-extensions==3.1.0                # For the generate secret command
